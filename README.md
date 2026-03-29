@@ -1,9 +1,7 @@
 
 
-<h1 align="center" style="font-size:30px;"> <b>
-
-🚀PacketSense</b> <br></h1>
-<p align="center" style="font-size:20px; >Smart Network Anomaly Detection</p>
+<h1 align="center" style="font-size:30px;"> <b>🚀PacketSense</b> <br></h1>
+<p align="center" style="font-size:20px;" >Smart Network Anomaly Detection </p>
 <br><br>
 
 📌**Overview**<br>
