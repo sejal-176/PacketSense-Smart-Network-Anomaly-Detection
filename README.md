@@ -1,18 +1,19 @@
 
 
-#🚀 **NetGuard**<br>: `ML-Based Network Anomaly Detection using Wireshark Data`
+🚀 **NetGuard**:<br>
+ML-Based Network Anomaly Detection using Wireshark Data
 
-##📌**Overview**
-`This project implements a Machine Learning-based system to detect anomalies in network traffic using real-world packet data captured through Wireshark. It identifies unusual patterns that may indicate potential security threats.`
+📌**Overview**<br>
+This project implements a Machine Learning-based system to detect anomalies in network traffic using real-world packet data captured through Wireshark. It identifies unusual patterns that may indicate potential security threats.
 
-##🧠 **Key Features**
-* 📡 `Capture real network traffic using Wireshark`
-* 🧹 `Data preprocessing & feature selection`
-* 🤖 `Anomaly detection using Isolation Forest`
-* 🚨 `Detect suspicious network behavior`
-* 📊 `Basic visualization of traffic patterns`
+##🧠 **Key Features**<br>
+* 📡 Capture real network traffic using Wireshark
+* 🧹 Data preprocessing & feature selection
+* 🤖 Anomaly detection using Isolation Forest
+* 🚨 Detect suspicious network behavior
+* 📊 Basic visualization of traffic patterns
 
-##🏗️ **Project Structure**
+🏗️ **Project Structure**<br>
 ```
 network-anomaly-ml/
 │
@@ -34,14 +35,14 @@ network-anomaly-ml/
 └── README.md
 ```
 
-##⚙️ **Tech Stack**
-* `Python `
-* `Pandas`
-* `Scikit-learn`
-* `Matplotlib`
-* `Wireshark`
+⚙️ **Tech Stack**<br>
+* Python 
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Wireshark
 
-##▶️ **How to Run**
+▶️ **How to Run**<br>
 * 1. Clone the repository
 ```
 git clone https://github.com/sejal-176/PacketSense-Smart-Network-Anomaly-Detection.git
@@ -59,22 +60,24 @@ python src/train.py
 ```
 python src/predict.py
 ```
-##📊 **Output**
-* `Displays total anomalies detected`
-* `Shows suspicious packets`
-* `Helps analyze unusual network behavior`
+📊 **Output** <br>
+* Displays total anomalies detected
+* Shows suspicious packets
+* Helps analyze unusual network behavior
 
-##🧠 **Learning Outcomes**
-* `Network traffic analysis`
-* `Feature engineering for ML`
-* `Unsupervised learning (Isolation Forest)`
-* `Cybersecurity fundamentals`
+🧠 **Learning Outcomes**<br>
+* Network traffic analysis
+* Feature engineering for ML
+* Unsupervised learning (Isolation Forest)
+* Cybersecurity fundamentals
 
-##⚠️ **Disclaimer**
-`This project is for educational purposes only. Detected anomalies do not always indicate malicious activity.`
+⚠️ **Disclaimer**<br>
+This project is for educational purposes only. Detected anomalies do not always indicate malicious activity.
 
-##👤 **Author**
-```
+👤 **Author**<br>
+
 Sejal
+```
 GitHub: https://github.com/sejal-176
 ```
+
