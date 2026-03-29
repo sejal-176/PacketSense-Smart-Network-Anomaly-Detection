@@ -1,12 +1,12 @@
 
 
-🚀 **NetGuard**:<br>
+🚀 ` # **NetGuard**`<br>
 ML-Based Network Anomaly Detection using Wireshark Data
 <br>
 
 📌**Overview**<br>
 This project implements a Machine Learning-based system to detect anomalies in network traffic using real-world packet data captured through Wireshark. It identifies unusual patterns that may indicate potential security threats.
-<br>
+<br><br><br>
 
 
 🧠 **Key Features**<br>
@@ -15,7 +15,7 @@ This project implements a Machine Learning-based system to detect anomalies in n
 * 🤖 Anomaly detection using Isolation Forest
 * 🚨 Detect suspicious network behavior
 * 📊 Basic visualization of traffic patterns
-<br>
+<br><br><br>
 
 🏗️ **Project Structure**<br>
 ```
@@ -38,8 +38,9 @@ network-anomaly-ml/
 ├── requirements.txt
 └── README.md
 ```
-<br>
-⚙️ **Tech Stack**<br>
+<br><br><br>
+
+⚙️**Tech Stack**<br>
 * Python 
 * Pandas
 * Scikit-learn
