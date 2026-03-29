@@ -1,6 +1,8 @@
 
 
-<h1 align="center" style="font-size:30px;"> <b>PacketSense</b> <br></h1>
+<h1 align="center" style="font-size:30px;"> <b>
+
+🚀PacketSense</b> <br></h1>
 <p align="center">ML-Based Network Anomaly Detection using Wireshark Data</p>
 <br><br>
 
