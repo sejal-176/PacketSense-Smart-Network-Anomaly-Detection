@@ -1,6 +1,6 @@
 
 
-#🚀 **NetGuard**: `ML-Based Network Anomaly Detection using Wireshark Data`
+#🚀 **NetGuard**<br>: `ML-Based Network Anomaly Detection using Wireshark Data`
 
 ##📌**Overview**
 `This project implements a Machine Learning-based system to detect anomalies in network traffic using real-world packet data captured through Wireshark. It identifies unusual patterns that may indicate potential security threats.`
