@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size:30px;"> <b>
 
 🚀PacketSense</b> <br></h1>
-<p align="center">Smart Network Anomaly Detection</p>
+<p align="center" style="font-size:20px; >Smart Network Anomaly Detection</p>
 <br><br>
 
 📌**Overview**<br>
