@@ -48,20 +48,20 @@ network-anomaly-ml/
 <br><br>
 
 ▶️ **How to Run**<br>
-* 1. Clone the repository
+*  Clone the repository
 ```
 git clone https://github.com/sejal-176/PacketSense-Smart-Network-Anomaly-Detection.git
 cd PacketSense-Smart-Network-Anomaly-Detection
 ```
-* 2. Install dependencies
+* Install dependencies
 ```
 pip install -r requirements.txt
 ```
-* 3. Train the model
+*  Train the model
 ```
 python src/train.py
 ```
-* 4. Detect anomalies
+*  Detect anomalies
 ```
 python src/predict.py
 ```
